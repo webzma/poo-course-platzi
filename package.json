@@ -1,0 +1,17 @@
+{
+  "name": "poo-course",
+  "version": "1.0.0",
+  "description": "Curso de programación orientada a objetos",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "POO",
+    "Platzi",
+    "Course",
+    "Learning"
+  ],
+  "author": "Wilberk Ledezma <ledezma.wilberk@gmail.com>",
+  "license": "ISC"
+}
